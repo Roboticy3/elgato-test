@@ -709,7 +709,7 @@ ScriptsOnlyBuild:
     className: PhotonRigidbody2DView
   - hash:
       serializedVersion: 2
-      Hash: f8d70d47df20cf7006674a24f2fc6b6f
+      Hash: 6e15152f29fb62d5c0662f6d5d3205d9
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: MoveCamera
