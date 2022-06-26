@@ -1,0 +1,51 @@
+# Blender MTL File: '17corners.blend'
+# Material Count: 5
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl asphalt_1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.137583 0.137583 0.137583
+Ks 0.255906 0.255906 0.255906
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl brick_1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.426534 0.380034
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl building_test
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:\\files\\davinci\\video\\depositphotos_211482302-stock-photo-beautiful-architecture-business-office-building.jpg
+
+newmtl concrete_1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.476989 0.476989 0.476989
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
