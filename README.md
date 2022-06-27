@@ -8,3 +8,5 @@ When the command prompt asks you to replace files (Yes/No/ALL), type A for it to
 
 Put the file paths to your project and git clone in quotation marks and then only the files necessary for the git project will be copied over.
 If you are pulling a change from the git project, just copy the git folder's contents (exluding .git, .gitattributes.txt, and this README file) into the Unity project.
+
+If you've created a new file or deleted an old one, just copy it into or delete it from the git folder manually.
