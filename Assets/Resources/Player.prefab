@@ -1285,8 +1285,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9da8f9092466b8348bb9ec849f171a68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 2155499173240350100}
   pm: {fileID: 2155499171820555856}
+  tilt: 10
 --- !u!114 &545496407327758187
 MonoBehaviour:
   m_ObjectHideFlags: 0
